@@ -18,8 +18,7 @@ Maintaining a stable hover, ascending, or landing.\
 
 🔄 2. Yaw (Left Stick – Left/Right)
 Function:
-Controls the rotation of the drone around its v![ertical axis.](https://raw.githubusercontent.com/tejashreehn610-blip/Level-0-Report-/afa4a86011914623a3a33efe5edecb0990a6b5a6/WhatsApp%20Image%202025-11-14%20at%206.09.48%20PM.jpeg)
-
+Controls the rotation of the drone around its vertical axis.\
 Yaw Left:
 Drone rotates counterclockwise.\
 Yaw Right:
