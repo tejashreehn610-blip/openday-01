@@ -3,7 +3,7 @@
 | :--- | :--- | :--- | :--- | 
 | Tejashree H N | Research , Documentation & Presentation  | ECE '28| Aviation, Batch -7|
 | Thanuja G R| Research , Documentation & Presentation | ECE '28| AIML, Batch -7|
-|
+
 # Radiomaster Transmitter Control Explanation
 This document explains the primary flight controls used in multirotors (drones) or RC vehicles when operated through a Radiomaster Transmitter.
 Each stick on the transmitter corresponds to a specific movement depending on the mode (Mode 1 / Mode 2).\
