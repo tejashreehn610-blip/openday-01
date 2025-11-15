@@ -14,7 +14,7 @@ Increases motor speed → drone rises.\
 Throttle Down:
 Decreases motor speed → drone descends.\
 Use Case:
-Maintaining a stable hover, ascending, or landing.\
+Maintaining a stable hover, ascending, or landing.
 
  2. Yaw (Left Stick – Left/Right)
 Function:
@@ -28,7 +28,7 @@ Changing the direction the drone is facing while hovering.
 
  3. Pitch (Right Stick – Up/Down)
 Function:
-Controls the drone’s forward and backward tilt.\
+Controls the drone’s forward and backward tilt.
 
 Pitch Forward:
 Drone moves forward.\
