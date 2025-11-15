@@ -5,7 +5,7 @@ Below is the explanation assuming the most common configuration: Mode 2.
 The image of it \
 ![image](https://raw.githubusercontent.com/tejashreehn610-blip/Level-0-Report-/a45a40ff736861e2a5cfab28c73908e9c271e176/WhatsApp%20Image%202025-11-14%20at%206.02.25%20PM.jpeg)
 
-🎛️ 1. Throttle (Left Stick – Up/Down)
+ 1. Throttle (Left Stick – Up/Down)
 Function:
 Controls the altitude or power of the motors.
 
@@ -16,7 +16,7 @@ Decreases motor speed → drone descends.\
 Use Case:
 Maintaining a stable hover, ascending, or landing.\
 
-🔄 2. Yaw (Left Stick – Left/Right)
+ 2. Yaw (Left Stick – Left/Right)
 Function:
 Controls the rotation of the drone around its vertical axis.\
 Yaw Left:
@@ -26,7 +26,7 @@ Drone rotates clockwise.\
 Use Case:
 Changing the direction the drone is facing while hovering.
 
-↕️ 3. Pitch (Right Stick – Up/Down)
+ 3. Pitch (Right Stick – Up/Down)
 Function:
 Controls the drone’s forward and backward tilt.\
 
@@ -37,7 +37,7 @@ Drone moves backward.\
 Use Case:
 Forward flight and reverse movement.\
 
-↔️ 4. Roll (Right Stick – Left/Right)
+4. Roll (Right Stick – Left/Right)
 Function:
 Controls the drone’s side tilt.\
 
@@ -48,7 +48,7 @@ Drone moves right.\
 Use Case:
 Left–right strafing, smooth turns, and balancing movement.
 
-### 🧭 Additional Controls (Switches & Aux Channels)
+###  Additional Controls (Switches & Aux Channels)
 Modern Radiomaster transmitters include multiple switches for additional functions:
 
 AUX1 – ARM/DISARM Switch\
@@ -63,14 +63,14 @@ Activates the “lost model alarm.”\
 AUX4 – Turtle Mode\
 Used in FPV quads to flip the drone upright after a crash.
 
-### 📡 Transmitter Calibration Notes
+###  Transmitter Calibration Notes
 When configuring a Radiomaster transmitter:
 
 Ensure all sticks read 1000–1500–2000 values in Betaflight/Ardupilot.
 Verify yaw is centered at 1500 when the stick is at rest.
 Ensure throttle minimum is around 1000 to avoid accidental motor spin.
 
-### ✔️ Summary
+###  Summary
 
 | Control | Stick Direction | Drone Movement |
 | :--- | :--- | :--- |
