@@ -1,8 +1,8 @@
 # PROJECT :EXPLORING THE ESSENTIALS OF FLIGHT AND RF COMMUNICATIONS
 | Teammate Name | Role / Task | Contact |
 | :--- | :--- | :--- |
-| Tejashree H N | Research & Documentation & Presentation  | tejashreehn@gmail.com|
-| Thanuja G R| Research & Documentation & Presentation | thanujagr4@gmail.com|
+| Tejashree H N | Research ,Documentation & Presentation  | tejashreehn@gmail.com|
+| Thanuja G R| Research ,Documentation & Presentation | thanujagr4@gmail.com|
 
 # Radiomaster Transmitter Control Explanation
 This document explains the primary flight controls used in multirotors (drones) or RC vehicles when operated through a Radiomaster Transmitter.
