@@ -3,7 +3,7 @@
 | :--- | :--- | :--- |
 | Tejashree H N | Research & Documentation & Presentation  | tejashreehn@gmail.com|
 | Thanuja G R| Research & Documentation & Presentation | thanujagr4@gmail.com|
-|
+
 # Radiomaster Transmitter Control Explanation
 This document explains the primary flight controls used in multirotors (drones) or RC vehicles when operated through a Radiomaster Transmitter.
 Each stick on the transmitter corresponds to a specific movement depending on the mode (Mode 1 / Mode 2).\
@@ -78,7 +78,7 @@ Verify yaw is centered at 1500 when the stick is at rest.
 Ensure throttle minimum is around 1000 to avoid accidental motor spin.
 
 ## Learning Takes Off: Hands-On Drone Simulator Experience for Students
-![image](https://raw.githubusercontent.com/tejashreehn610-blip/Level-0-Report-/7b8c2c4185a62158703089ad2e2915c8ed444e29/Screenshot%202025-11-15%20192857.png)/
+![image](https://raw.githubusercontent.com/tejashreehn610-blip/Level-0-Report-/7b8c2c4185a62158703089ad2e2915c8ed444e29/Screenshot%202025-11-15%20192857.png)\
 We made the students use the Drone Simulator app, giving them a fun and interactive hands-on experience with real drone controls. This helped them understand the basics of flying while building confidence through practical learning.
 
 
