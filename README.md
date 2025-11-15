@@ -18,7 +18,7 @@ Controls the altitude or power of the motors.
 Throttle Up:
 Increases motor speed → drone rises.\
 Throttle Down:
-Decreases motor speed → drone descends.
+Decreases motor speed → drone descends.\
 Use Case:
 Maintaining a stable hover, ascending, or landing.
 
