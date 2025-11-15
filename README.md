@@ -10,15 +10,15 @@ Function:
 Controls the altitude or power of the motors.
 
 Throttle Up:
-Increases motor speed → drone rises.\
+Increases motor speed → drone rises.
 Throttle Down:
-Decreases motor speed → drone descends.\
+Decreases motor speed → drone descends.
 Use Case:
 Maintaining a stable hover, ascending, or landing.
 
  2. Yaw (Left Stick – Left/Right)
 Function:
-Controls the rotation of the drone around its vertical axis.\
+Controls the rotation of the drone around its vertical axis.
 Yaw Left:
 Drone rotates counterclockwise.\
 Yaw Right:
